@@ -9,5 +9,5 @@ function groceriesList() {
 
   return groceries;
 }
-export default groceriesList;
 
+export default groceriesList;
